@@ -17,6 +17,8 @@ Lease agreements are often lengthy, dense, and filled with legal terminology tha
 
 The result is a fast, accessible, and reliable tool for both **tenants** and **property managers**.
 
+**Project Lead:** [Ma’am **Momina Ather**](https://github.com/momina02) — our Buildables Fellowship Lead
+
 ---
 
 ## **Key Features**
